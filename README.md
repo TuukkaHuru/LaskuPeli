@@ -1,1 +1,1 @@
- yksinkertainen laskinsovellus
+ yksinkertainen laskupeli
